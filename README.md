@@ -1,1 +1,2 @@
 # zmays-snpsSample
+Sample
